@@ -16,10 +16,12 @@
 ### Interests
 - Artificial Intelligence & Generative AI
 - Backend Development
+- Frontend Development 
 - Data Analysis
 - Building AI-powered applications
 
 📍 Milan, Italy
 
 ### Connect with me
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: www.linkedin.com/in/romina-shamsi
+- Email: Romina.shamsi@mail.polimi.it
